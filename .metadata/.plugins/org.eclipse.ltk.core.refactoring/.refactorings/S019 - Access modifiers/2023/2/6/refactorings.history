@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;udemy.a&apos; to &apos;udemy.parent&apos;&#x0D;&#x0A;- Original project: &apos;S019 - Access modifiers&apos;&#x0D;&#x0A;- Original element: &apos;S019 - Access modifiers/src/udemy.a&apos;&#x0D;&#x0A;- Renamed element: &apos;S019 - Access modifiers/src/udemy.parent&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;udemy.a&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;udemy.a" name="udemy.parent" qualified="false" references="true" stamp="1675568371883" textual="false" version="1.0"/>
+</session>

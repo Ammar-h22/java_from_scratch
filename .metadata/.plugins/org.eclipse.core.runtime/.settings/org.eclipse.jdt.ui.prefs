@@ -1,0 +1,11 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Udemy.parent.Vehicle"><rhs name\="Udemy.vehicles.Bike"/></lhs><lhs name\="Udemy.vehicles.Bike"><rhs name\="Udemy.vehicles.Bike"/></lhs><lhs name\="udemy.platform.Java"><rhs name\="udemy.platform.Java"/></lhs><lhs name\="udemy.CallByReference"><rhs name\="udemy.CallByReference"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.HashSet"/><rhs name\="java.util.LinkedHashSet"/><rhs name\="java.util.TreeSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.HashSet"/><rhs name\="java.util.LinkedHashSet"/><rhs name\="java.util.TreeSet"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.HashSet"/><rhs name\="java.util.LinkedHashSet"/><rhs name\="java.util.TreeSet"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
